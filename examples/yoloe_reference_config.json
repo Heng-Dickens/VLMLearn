@@ -1,0 +1,10 @@
+{
+  "names": ["hanging object"],
+  "references": [
+    {"image": "REFERENCE_1.jpg", "class_id": 0, "box": [100, 100, 200, 250]},
+    {"image": "REFERENCE_2.jpg", "class_id": 0, "box": [50, 80, 180, 240]}
+  ],
+  "targets": [
+    {"image_id": "query-1", "image": "QUERY_1.jpg"}
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "run_id": "REQUIRED",
+  "status": "planned",
+  "dataset": {
+    "name": "REQUIRED",
+    "fingerprint": "REQUIRED",
+    "split_manifest": "REQUIRED",
+    "class_map": "REQUIRED"
+  },
+  "model": {
+    "experiment_label": "REQUIRED",
+    "weights_sha256": "REQUIRED",
+    "upstream_commit": "REQUIRED",
+    "precision": "REQUIRED"
+  },
+  "task_protocol": "dynamic_visual_prompt | fixed_class_finetune | mllm_direct | candidate_review",
+  "reference_instance_ids": [],
+  "reference_images_per_class": null,
+  "training_instances_per_class": null,
+  "seed": 0,
+  "trainer": null,
+  "trainable_parameter_names": [],
+  "savpe_present": null,
+  "prompt_snapshot": null,
+  "coordinate_format": "original-image pixels xyxy",
+  "score_source": "REQUIRED",
+  "inference": {
+    "candidate_threshold": null,
+    "nms_iou": null,
+    "max_dets": null
+  },
+  "successful_images": null,
+  "failed_images": null,
+  "predictions_file": "REQUIRED",
+  "latency_seconds": null
+}
+

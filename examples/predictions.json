@@ -1,0 +1,6 @@
+[
+  {"image_id":"synthetic-1","label":"target","box":[100,100,200,200],"score":0.9},
+  {"image_id":"synthetic-1","label":"target","box":[101,100,201,200],"score":0.7},
+  {"image_id":"synthetic-2","label":"target","box":[22,22,82,82],"score":0.6},
+  {"image_id":"synthetic-negative","label":"target","box":[10,10,30,30],"score":0.5}
+]

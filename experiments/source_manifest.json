@@ -1,0 +1,26 @@
+[
+  {
+    "path": "archive/diaowu_val300.txt",
+    "original_filename": "results_summary.md",
+    "size_bytes": 21323,
+    "sha256": "153a8fa34da9a576cd30aa75a0e1c1e77db93c28b2c98d43d7ce8ddf2866ea17"
+  },
+  {
+    "path": "archive/chache_val300.txt",
+    "original_filename": "results_summary(1).md",
+    "size_bytes": 21608,
+    "sha256": "65d4f6cd63895b9a00290340ba385f5e1b772aaff20560af46a6e627feb9cfe8"
+  },
+  {
+    "path": "archive/box_precision_20261029.txt",
+    "original_filename": "README.md",
+    "size_bytes": 67698,
+    "sha256": "45b7e6acea786486e3933035578cb3a09097b8862f448d1c719490bd2a6412fe"
+  },
+  {
+    "path": "archive/prompt_results_early.txt",
+    "original_filename": "prompt_results.md",
+    "size_bytes": 19933,
+    "sha256": "df5b055c7dd2a59296d964fd6f6203a09c5a101e49dc33c49c1a305c6c5e3e4a"
+  }
+]

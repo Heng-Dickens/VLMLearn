@@ -1,0 +1,4 @@
+[
+  {"image_id":"synthetic-1","label":"target","box":[100,100,200,200]},
+  {"image_id":"synthetic-2","label":"target","box":[20,20,80,80]}
+]
